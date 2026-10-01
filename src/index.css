@@ -1,0 +1,32 @@
+@import "tailwindcss";
+
+@layer utilities {
+  .font-chinese {
+    font-family: 'Noto Serif SC', 'Songti SC', 'SimSun', serif;
+  }
+  .font-calligraphy {
+    font-family: 'Ma Shan Zheng', 'Noto Serif SC', cursive, serif;
+  }
+  .font-sans-app {
+    font-family: 'Plus Jakarta Sans', -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, sans-serif;
+  }
+}
+
+/* Warm bamboo & parchment aesthetic - eliminates stark white glare */
+body {
+  font-family: 'Plus Jakarta Sans', sans-serif;
+  background-color: #f3ece2;
+  color: #26221d;
+  min-height: 100vh;
+}
+
+.tianzige-grid {
+  background-color: #fefdf9;
+  background-image: 
+    linear-gradient(to right, rgba(220, 38, 38, 0.2) 1px, transparent 1px),
+    linear-gradient(to bottom, rgba(220, 38, 38, 0.2) 1px, transparent 1px),
+    linear-gradient(45deg, transparent 49.5%, rgba(220, 38, 38, 0.12) 50%, transparent 50.5%),
+    linear-gradient(-45deg, transparent 49.5%, rgba(220, 38, 38, 0.12) 50%, transparent 50.5%);
+  background-size: 100% 100%, 100% 100%, 100% 100%, 100% 100%;
+}
+
