@@ -1,0 +1,6 @@
+{
+  "name": "HanziLab - Enigmistica Cinese",
+  "description": "Applicazione per giocare, creare e gestire giochi educativi sui caratteri cinesi arricchiti con file JSON in public/ modificabili offline.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
