@@ -1,0 +1,122 @@
+[
+  {
+    "id": "sen",
+    "char": "森",
+    "pinyin": "sēn",
+    "meaning": "foresta / fitta vegetazione",
+    "radicals": ["木", "木", "木"],
+    "distractors": ["日", "月", "人", "水", "火", "土", "金"],
+    "explanation": "Formato da tre alberi (木): una concentrazione di alberi dà origine a una grande foresta.",
+    "level": "Elementare"
+  },
+  {
+    "id": "ming",
+    "char": "明",
+    "pinyin": "míng",
+    "meaning": "luminoso / chiaro / comprendere",
+    "radicals": ["日", "月"],
+    "distractors": ["木", "人", "水", "火", "土", "金", "女"],
+    "explanation": "L'unione del sole (日) e della luna (月), i due astri che illuminano giorno e notte.",
+    "level": "Elementare"
+  },
+  {
+    "id": "xiu",
+    "char": "休",
+    "pinyin": "xiū",
+    "meaning": "riposare / concedersi una pausa",
+    "radicals": ["人", "木"],
+    "distractors": ["日", "月", "水", "火", "口", "女", "心"],
+    "explanation": "Una persona (人 o亻) che si siede o si appoggia a un albero (木) per riposarsi all'ombra.",
+    "level": "Elementare"
+  },
+  {
+    "id": "hao",
+    "char": "好",
+    "pinyin": "hǎo",
+    "meaning": "bene / buono / bello",
+    "radicals": ["女", "子"],
+    "distractors": ["木", "日", "月", "人", "口", "宀", "心"],
+    "explanation": "L'affetto tra una donna/madre (女) e il proprio figlio/bambino (子) rappresenta l'idea di bene e armonia.",
+    "level": "Elementare"
+  },
+  {
+    "id": "an",
+    "char": "安",
+    "pinyin": "ān",
+    "meaning": "pace / tranquillità / sicurezza",
+    "radicals": ["宀", "女"],
+    "distractors": ["木", "日", "子", "人", "口", "心", "水"],
+    "explanation": "Una donna (女) al sicuro sotto un tetto (宀): simboleggia la pace e la serenità domestica.",
+    "level": "Intermedio"
+  },
+  {
+    "id": "jia",
+    "char": "家",
+    "pinyin": "jiā",
+    "meaning": "casa / famiglia",
+    "radicals": ["宀", "豕"],
+    "distractors": ["女", "木", "人", "子", "口", "心", "日"],
+    "explanation": "Un tetto (宀) che protegge un maiale (豕): nell'antica civiltà contadina possedere bestiame sotto casa indicava prosperità e focolare.",
+    "level": "Intermedio"
+  },
+  {
+    "id": "kan",
+    "char": "看",
+    "pinyin": "kàn",
+    "meaning": "guardare / osservare / leggere",
+    "radicals": ["手", "目"],
+    "distractors": ["口", "耳", "足", "心", "人", "木", "日"],
+    "explanation": "Una mano (手) posata sopra l'occhio (目) per schermarsi dalla luce del sole e scrutare lontano.",
+    "level": "Elementare"
+  },
+  {
+    "id": "xiang",
+    "char": "想",
+    "pinyin": "xiǎng",
+    "meaning": "pensare / sentire nostalgia / desiderare",
+    "radicals": ["相", "心"],
+    "distractors": ["手", "目", "口", "人", "日", "月", "木"],
+    "explanation": "L'osservazione attenta (相) combinata con il cuore/mente (心): il pensiero profondo e il ricordo emotivo.",
+    "level": "Intermedio"
+  },
+  {
+    "id": "ting",
+    "char": "听",
+    "pinyin": "tīng",
+    "meaning": "ascoltare / sentire",
+    "radicals": ["口", "斤"],
+    "distractors": ["耳", "目", "手", "心", "言", "日", "人"],
+    "explanation": "La bocca (口) e il componente fonetico 斤 (ascia/peso): prestare attenzione a ciò che viene detto.",
+    "level": "Elementare"
+  },
+  {
+    "id": "chi",
+    "char": "吃",
+    "pinyin": "chī",
+    "meaning": "mangiare",
+    "radicals": ["口", "乞"],
+    "distractors": ["手", "目", "耳", "心", "水", "木", "日"],
+    "explanation": "La bocca (口) che richiede (乞) cibo da ingerire.",
+    "level": "Elementare"
+  },
+  {
+    "id": "he",
+    "char": "喝",
+    "pinyin": "hē",
+    "meaning": "bere",
+    "radicals": ["口", "曷"],
+    "distractors": ["水", "手", "日", "心", "目", "人", "木"],
+    "explanation": "La bocca (口) con il fonetico 曷: l'atto di dissetarsi ingerendo liquidi.",
+    "level": "Elementare"
+  },
+  {
+    "id": "xue",
+    "char": "学",
+    "pinyin": "xué",
+    "meaning": "studiare / apprendere",
+    "radicals": ["子", "冖"],
+    "distractors": ["女", "父", "手", "口", "心", "目", "日"],
+    "explanation": "Un fanciullo (子) sotto una copertura (冖) che riceve gli insegnamenti della cultura.",
+    "level": "Elementare"
+  }
+]

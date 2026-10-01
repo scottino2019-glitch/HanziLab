@@ -1,0 +1,20 @@
+[
+  { "id": "m_shui", "char": "水", "pinyin": "shuǐ", "meaning": "acqua", "category": "Elementi Naturali" },
+  { "id": "m_huo", "char": "火", "pinyin": "huǒ", "meaning": "fuoco", "category": "Elementi Naturali" },
+  { "id": "m_shan", "char": "山", "pinyin": "shān", "meaning": "montagna", "category": "Elementi Naturali" },
+  { "id": "m_tian", "char": "天", "pinyin": "tiān", "meaning": "cielo / giorno", "category": "Elementi Naturali" },
+  { "id": "m_di", "char": "地", "pinyin": "dì", "meaning": "terra / suolo", "category": "Elementi Naturali" },
+  { "id": "m_xin", "char": "心", "pinyin": "xīn", "meaning": "cuore / animo", "category": "Corpo & Emozioni" },
+  { "id": "m_shou", "char": "手", "pinyin": "shǒu", "meaning": "mano", "category": "Corpo & Emozioni" },
+  { "id": "m_zu", "char": "足", "pinyin": "zú", "meaning": "piede / passo", "category": "Corpo & Emozioni" },
+  { "id": "m_yan", "char": "眼", "pinyin": "yǎn", "meaning": "occhio", "category": "Corpo & Emozioni" },
+  { "id": "m_er", "char": "耳", "pinyin": "ěr", "meaning": "orecchio", "category": "Corpo & Emozioni" },
+  { "id": "m_kou", "char": "口", "pinyin": "kǒu", "meaning": "bocca", "category": "Corpo & Emozioni" },
+  { "id": "m_tou", "char": "头", "pinyin": "tóu", "meaning": "testa / capo", "category": "Corpo & Emozioni" },
+  { "id": "m_yu", "char": "鱼", "pinyin": "yú", "meaning": "pesce", "category": "Animali & Piante" },
+  { "id": "m_niao", "char": "鸟", "pinyin": "niǎo", "meaning": "uccello", "category": "Animali & Piante" },
+  { "id": "m_hua", "char": "花", "pinyin": "huā", "meaning": "fiore", "category": "Animali & Piante" },
+  { "id": "m_cao", "char": "草", "pinyin": "cǎo", "meaning": "erba", "category": "Animali & Piante" },
+  { "id": "m_ri", "char": "日", "pinyin": "rì", "meaning": "sole / giorno", "category": "Elementi Naturali" },
+  { "id": "m_yue", "char": "月", "pinyin": "yuè", "meaning": "luna / mese", "category": "Elementi Naturali" }
+]

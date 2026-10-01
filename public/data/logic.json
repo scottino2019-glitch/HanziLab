@@ -1,0 +1,101 @@
+[
+  {
+    "id": "log_ming",
+    "components": ["日", "月"],
+    "pinyin": "míng",
+    "meaning": "luminoso / chiaro / comprendere",
+    "answer": "明",
+    "options": ["明", "暗", "光", "亮"],
+    "hint": "Cosa nasce quando l'astro del giorno (sole) si unisce a quello della notte (luna)?",
+    "explanation": "Il sole (日) e la luna (月) formano 明, sinonimo di fulgore, lucidità e discernimento.",
+    "category": "Composizione Ideografica"
+  },
+  {
+    "id": "log_xiu",
+    "components": ["人", "木"],
+    "pinyin": "xiū",
+    "meaning": "riposare / prendere una pausa",
+    "answer": "休",
+    "options": ["休", "体", "保", "依"],
+    "hint": "Una persona affaticata che trova refrigerio appoggiandosi al tronco di un albero...",
+    "explanation": "La persona (人) affiancata all'albero (木) compone 休 (riposare).",
+    "category": "Composizione Ideografica"
+  },
+  {
+    "id": "log_hao",
+    "components": ["女", "子"],
+    "pinyin": "hǎo",
+    "meaning": "bene / buono / bello",
+    "answer": "好",
+    "options": ["好", "妈", "爱", "美"],
+    "hint": "L'unione ancestrale tra una madre e il proprio bambino esprime il concetto di...",
+    "explanation": "Donna (女) e bambino (子) insieme costituiscono il carattere 好 (buono, bene).",
+    "category": "Composizione Ideografica"
+  },
+  {
+    "id": "log_jia",
+    "components": ["宀", "豕"],
+    "pinyin": "jiā",
+    "meaning": "casa / famiglia",
+    "answer": "家",
+    "options": ["家", "富", "宝", "安"],
+    "hint": "Un tetto sicuro sopra un maiale, simbolo contadino di prosperità e sostentamento...",
+    "explanation": "Il tetto (宀) sopra il maiale (豕) rappresenta la dimora stabile: 家.",
+    "category": "Composizione Ideografica"
+  },
+  {
+    "id": "log_chi",
+    "components": ["口", "乞"],
+    "pinyin": "chī",
+    "meaning": "mangiare",
+    "answer": "吃",
+    "options": ["吃", "说", "喝", "问"],
+    "hint": "La bocca aperta che riceve o chiede nutrimento...",
+    "explanation": "Bocca (口) unita all'elemento 乞 (chiedere/ricevere) genera 吃 (mangiare).",
+    "category": "Composizione Fonetico-Semantica"
+  },
+  {
+    "id": "log_kan",
+    "components": ["手", "目"],
+    "pinyin": "kàn",
+    "meaning": "guardare / osservare",
+    "answer": "看",
+    "options": ["看", "摸", "指", "找"],
+    "hint": "Una mano posta a visiera sopra l'occhio per proteggersi dal riverbero del sole...",
+    "explanation": "Mano (手) sopra l'occhio (目) compone 看 (guardare, osservare).",
+    "category": "Composizione Ideografica"
+  },
+  {
+    "id": "log_an",
+    "components": ["宀", "女"],
+    "pinyin": "ān",
+    "meaning": "pace / sicurezza / quiete",
+    "answer": "安",
+    "options": ["安", "定", "宁", "家"],
+    "hint": "La presenza di una donna protetta nel santuario della casa sotto un tetto saldo...",
+    "explanation": "Tetto (宀) con sotto donna (女) crea 安 (pace, tranquillità).",
+    "category": "Composizione Ideografica"
+  },
+  {
+    "id": "log_lin",
+    "components": ["木", "木"],
+    "pinyin": "lín",
+    "meaning": "bosco / selva",
+    "answer": "林",
+    "options": ["林", "森", "树", "材"],
+    "hint": "Due alberi che crescono uno di fianco all'altro...",
+    "explanation": "Due alberi (木 + 木) formano 林 (bosco, selva).",
+    "category": "Raddoppio di Radicale"
+  },
+  {
+    "id": "log_yan",
+    "components": ["火", "火"],
+    "pinyin": "yán",
+    "meaning": "fiamma ardente / infiammazione",
+    "answer": "炎",
+    "options": ["炎", "烈", "焚", "热"],
+    "hint": "Due fiamme sovrapposte che sprigionano calore ardente...",
+    "explanation": "Due fuochi (火 + 火) formano 炎 (fiammeggiante, caldissimo, infiammato).",
+    "category": "Raddoppio di Radicale"
+  }
+]

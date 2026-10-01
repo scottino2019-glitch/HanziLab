@@ -1,0 +1,23 @@
+[
+  { "id": "p_ni", "char": "你", "pinyin": "nǐ", "meaning": "tu", "options": ["nǐ", "nī", "ní", "nì"], "tone": 3, "explanation": "Terzo tono (ǎ) discendente-ascendente: nǐ" },
+  { "id": "p_hao", "char": "好", "pinyin": "hǎo", "meaning": "bene / buono", "options": ["hǎo", "hāo", "háo", "hào"], "tone": 3, "explanation": "Terzo tono: hǎo" },
+  { "id": "p_wo", "char": "我", "pinyin": "wǒ", "meaning": "io / me", "options": ["wǒ", "wō", "wó", "wò"], "tone": 3, "explanation": "Terzo tono: wǒ" },
+  { "id": "p_shi", "char": "是", "pinyin": "shì", "meaning": "essere / sì", "options": ["shì", "shī", "shí", "shǐ"], "tone": 4, "explanation": "Quarto tono (à) discendente e deciso: shì" },
+  { "id": "p_de", "char": "的", "pinyin": "de", "meaning": "particella possessiva (di)", "options": ["de", "dē", "dé", "dè"], "tone": 0, "explanation": "Tono neutro (leggero e breve): de" },
+  { "id": "p_zai", "char": "在", "pinyin": "zài", "meaning": "stare / trovarsi in", "options": ["zài", "zāi", "zái", "zǎi"], "tone": 4, "explanation": "Quarto tono discendente: zài" },
+  { "id": "p_you", "char": "有", "pinyin": "yǒu", "meaning": "avere / esserci", "options": ["yǒu", "yōu", "yóu", "yòu"], "tone": 3, "explanation": "Terzo tono: yǒu" },
+  { "id": "p_ren", "char": "人", "pinyin": "rén", "meaning": "persona / uomo", "options": ["rén", "rēn", "rěn", "rèn"], "tone": 2, "explanation": "Secondo tono (á) ascendente: rén" },
+  { "id": "p_zhong", "char": "中", "pinyin": "zhōng", "meaning": "centro / mezzo", "options": ["zhōng", "zhóng", "zhǒng", "zhòng"], "tone": 1, "explanation": "Primo tono (ā) alto e costante: zhōng" },
+  { "id": "p_guo", "char": "国", "pinyin": "guó", "meaning": "paese / nazione", "options": ["guó", "guō", "guǒ", "guò"], "tone": 2, "explanation": "Secondo tono ascendente: guó" },
+  { "id": "p_ai", "char": "爱", "pinyin": "ài", "meaning": "amare / amore", "options": ["ài", "āi", "ǎi", "ái"], "tone": 4, "explanation": "Quarto tono discendente netto: ài" },
+  { "id": "p_ba", "char": "八", "pinyin": "bā", "meaning": "otto (8)", "options": ["bā", "bá", "bǎ", "bà"], "tone": 1, "explanation": "Primo tono alto e piano: bā" },
+  { "id": "p_cha", "char": "茶", "pinyin": "chá", "meaning": "tè", "options": ["chá", "chā", "chǎ", "chà"], "tone": 2, "explanation": "Secondo tono ascendente: chá" },
+  { "id": "p_chi", "char": "吃", "pinyin": "chī", "meaning": "mangiare", "options": ["chī", "chí", "chǐ", "chì"], "tone": 1, "explanation": "Primo tono alto e prolungato: chī" },
+  { "id": "p_tian", "char": "天", "pinyin": "tiān", "meaning": "cielo / giorno", "options": ["tiān", "tián", "tiǎn", "tiàn"], "tone": 1, "explanation": "Primo tono alto: tiān" },
+  { "id": "p_xue", "char": "学", "pinyin": "xué", "meaning": "studiare", "options": ["xué", "xuē", "xuě", "xuè"], "tone": 2, "explanation": "Secondo tono ascendente: xué" },
+  { "id": "p_jian", "char": "见", "pinyin": "jiàn", "meaning": "vedere / incontrare", "options": ["jiàn", "jiān", "jiǎn", "jián"], "tone": 4, "explanation": "Quarto tono discendente: jiàn" },
+  { "id": "p_lai", "char": "来", "pinyin": "lái", "meaning": "venire", "options": ["lái", "lāi", "lǎi", "lài"], "tone": 2, "explanation": "Secondo tono ascendente: lái" },
+  { "id": "p_qu", "char": "去", "pinyin": "qù", "meaning": "andare", "options": ["qù", "qū", "qǔ", "qú"], "tone": 4, "explanation": "Quarto tono discendente: qù" },
+  { "id": "p_he", "char": "喝", "pinyin": "hē", "meaning": "bere", "options": ["hē", "hé", "hě", "hè"], "tone": 1, "explanation": "Primo tono alto: hē" },
+  { "id": "p_xiao", "char": "小", "pinyin": "xiǎo", "meaning": "piccolo", "options": ["xiǎo", "xiāo", "xiáo", "xiào"], "tone": 3, "explanation": "Terzo tono discendente-ascendente: xiǎo" }
+]

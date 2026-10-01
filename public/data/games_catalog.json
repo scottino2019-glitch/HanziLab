@@ -1,0 +1,56 @@
+[
+  {
+    "id": "radicals",
+    "name": "Caccia ai Radicali",
+    "chineseName": "部首寻踪",
+    "file": "radicals.json",
+    "icon": "Search",
+    "description": "Individua tutti i radicali e componenti nascosti all'interno del carattere composto.",
+    "learningFocus": "Scomposizione analitica dei caratteri e riconoscimento dei radicali Kangxi."
+  },
+  {
+    "id": "evolution",
+    "name": "Evoluzione Caratteri",
+    "chineseName": "汉字演化",
+    "file": "evolution.json",
+    "icon": "History",
+    "description": "Ricostruisci la storia millenaria del carattere: dal pittogramma arcaico al tratto moderno.",
+    "learningFocus": "Etimologia visiva, ossa oracolari, bronzi antichi e semplificazione storica."
+  },
+  {
+    "id": "logic",
+    "name": "Logica Cinese",
+    "chineseName": "字理逻辑",
+    "file": "logic.json",
+    "icon": "Puzzle",
+    "description": "Componi o deduci il carattere giusto combinando gli elementi ideografici.",
+    "learningFocus": "Associazione concettuale e sintesi ideografica della lingua cinese."
+  },
+  {
+    "id": "memory",
+    "name": "Memory Cinese",
+    "chineseName": "汉字记忆",
+    "file": "memory.json",
+    "icon": "Layers",
+    "description": "Allena la mente abbinando ciascun carattere Hanzi alla sua traduzione italiana.",
+    "learningFocus": "Memorizzazione attiva del vocabolario con pronuncia audio offline."
+  },
+  {
+    "id": "stroke",
+    "name": "Ordine dei Tratti",
+    "chineseName": "笔顺练字",
+    "file": "stroke.json",
+    "icon": "PenTool",
+    "description": "Traccia i tratti nell'ordine calligrafico canonico su griglia tradizionale Tianzige.",
+    "learningFocus": "Regole di scrittura (dall'alto in basso, da sinistra a destra, chiusure)."
+  },
+  {
+    "id": "pronunciation",
+    "name": "Quiz Pronuncia & Toni",
+    "chineseName": "拼音辨调",
+    "file": "pronunciation.json",
+    "icon": "Volume2",
+    "description": "Abbina il carattere al pinyin corretto distinguendo i 4 toni mandarini.",
+    "learningFocus": "Trascrizione fonetica Pinyin, accenti tonali e ascolto vocale offline."
+  }
+]

@@ -1,0 +1,253 @@
+[
+  {
+    "id": "stroke_yi",
+    "char": "一",
+    "pinyin": "yī",
+    "meaning": "uno",
+    "rule": "Da sinistra verso destra (从左到右)",
+    "totalStrokes": 1,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "横 (Héng)",
+        "type": "horizontal",
+        "start": { "x": 60, "y": 150 },
+        "end": { "x": 240, "y": 150 },
+        "description": "Tratto orizzontale unico, da sinistra a destra"
+      }
+    ]
+  },
+  {
+    "id": "stroke_er",
+    "char": "二",
+    "pinyin": "èr",
+    "meaning": "due",
+    "rule": "Dall'alto verso il basso (从上到下)",
+    "totalStrokes": 2,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "短横 (Duǎnhéng)",
+        "type": "horizontal",
+        "start": { "x": 75, "y": 115 },
+        "end": { "x": 225, "y": 115 },
+        "description": "Primo tratto orizzontale superiore (più corto)"
+      },
+      {
+        "order": 2,
+        "name": "长横 (Chánghéng)",
+        "type": "horizontal",
+        "start": { "x": 55, "y": 185 },
+        "end": { "x": 245, "y": 185 },
+        "description": "Secondo tratto orizzontale inferiore (più lungo)"
+      }
+    ]
+  },
+  {
+    "id": "stroke_san",
+    "char": "三",
+    "pinyin": "sān",
+    "meaning": "tre",
+    "rule": "Dall'alto verso il basso (从上到下)",
+    "totalStrokes": 3,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "上横 (Shànghéng)",
+        "type": "horizontal",
+        "start": { "x": 75, "y": 95 },
+        "end": { "x": 225, "y": 95 },
+        "description": "Tratto orizzontale superiore (medio)"
+      },
+      {
+        "order": 2,
+        "name": "中横 (Zhōnghéng)",
+        "type": "horizontal",
+        "start": { "x": 90, "y": 150 },
+        "end": { "x": 210, "y": 150 },
+        "description": "Tratto orizzontale centrale (il più corto)"
+      },
+      {
+        "order": 3,
+        "name": "下横 (Xiàhéng)",
+        "type": "horizontal",
+        "start": { "x": 50, "y": 205 },
+        "end": { "x": 250, "y": 205 },
+        "description": "Tratto orizzontale inferiore (il più lungo)"
+      }
+    ]
+  },
+  {
+    "id": "stroke_shi",
+    "char": "十",
+    "pinyin": "shí",
+    "meaning": "dieci",
+    "rule": "Prima orizzontale, poi verticale (先横后竖)",
+    "totalStrokes": 2,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "横 (Héng)",
+        "type": "horizontal",
+        "start": { "x": 60, "y": 150 },
+        "end": { "x": 240, "y": 150 },
+        "description": "Tratto orizzontale attraversante"
+      },
+      {
+        "order": 2,
+        "name": "竖 (Shù)",
+        "type": "vertical",
+        "start": { "x": 150, "y": 60 },
+        "end": { "x": 150, "y": 240 },
+        "description": "Tratto verticale centrale dall'alto in basso"
+      }
+    ]
+  },
+  {
+    "id": "stroke_ren",
+    "char": "人",
+    "pinyin": "rén",
+    "meaning": "persona",
+    "rule": "Prima tratto a sinistra (撇), poi a destra (捺) (先撇后捺)",
+    "totalStrokes": 2,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "撇 (Piě)",
+        "type": "curve-left",
+        "start": { "x": 150, "y": 65 },
+        "end": { "x": 65, "y": 235 },
+        "description": "Tratto discendente e ricurvo verso sinistra"
+      },
+      {
+        "order": 2,
+        "name": "捺 (Nà)",
+        "type": "curve-right",
+        "start": { "x": 120, "y": 130 },
+        "end": { "x": 235, "y": 235 },
+        "description": "Tratto discendente che si allarga verso destra"
+      }
+    ]
+  },
+  {
+    "id": "stroke_kou",
+    "char": "口",
+    "pinyin": "kǒu",
+    "meaning": "bocca",
+    "rule": "Sinistra, poi angolo superiore, infine chiusura inferiore (先外后闭)",
+    "totalStrokes": 3,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "竖 (Shù)",
+        "type": "vertical",
+        "start": { "x": 80, "y": 80 },
+        "end": { "x": 80, "y": 220 },
+        "description": "1. Tratto verticale sinistro dall'alto in basso"
+      },
+      {
+        "order": 2,
+        "name": "横折 (Héngzhé)",
+        "type": "corner",
+        "start": { "x": 80, "y": 80 },
+        "end": { "x": 220, "y": 220 },
+        "path": "M 80 80 L 220 80 L 220 220",
+        "description": "2. Tratto ad angolo: orizzontale poi piega verticale verso il basso"
+      },
+      {
+        "order": 3,
+        "name": "横 (Héng)",
+        "type": "horizontal",
+        "start": { "x": 80, "y": 220 },
+        "end": { "x": 220, "y": 220 },
+        "description": "3. Tratto orizzontale di chiusura inferiore"
+      }
+    ]
+  },
+  {
+    "id": "stroke_ri",
+    "char": "日",
+    "pinyin": "rì",
+    "meaning": "sole / giorno",
+    "rule": "Prima l'esterno, poi l'interno, infine chiudi (先外后内再封口)",
+    "totalStrokes": 4,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "竖 (Shù)",
+        "type": "vertical",
+        "start": { "x": 85, "y": 65 },
+        "end": { "x": 85, "y": 235 },
+        "description": "1. Tratto verticale sinistro"
+      },
+      {
+        "order": 2,
+        "name": "横折 (Héngzhé)",
+        "type": "corner",
+        "start": { "x": 85, "y": 65 },
+        "end": { "x": 215, "y": 235 },
+        "path": "M 85 65 L 215 65 L 215 235",
+        "description": "2. Tratto superiore che piega ad angolo verso il basso"
+      },
+      {
+        "order": 3,
+        "name": "短横 (Duǎnhéng)",
+        "type": "horizontal",
+        "start": { "x": 85, "y": 150 },
+        "end": { "x": 215, "y": 150 },
+        "description": "3. Tratto orizzontale centrale interno"
+      },
+      {
+        "order": 4,
+        "name": "底横 (Dǐhéng)",
+        "type": "horizontal",
+        "start": { "x": 85, "y": 235 },
+        "end": { "x": 215, "y": 235 },
+        "description": "4. Chiusura orizzontale inferiore"
+      }
+    ]
+  },
+  {
+    "id": "stroke_zhong",
+    "char": "中",
+    "pinyin": "zhōng",
+    "meaning": "centro / Cina",
+    "rule": "Prima il riquadro, poi la verticale che lo trapassa (先包围后穿心)",
+    "totalStrokes": 4,
+    "strokes": [
+      {
+        "order": 1,
+        "name": "竖 (Shù)",
+        "type": "vertical",
+        "start": { "x": 75, "y": 100 },
+        "end": { "x": 75, "y": 180 },
+        "description": "1. Tratto verticale sinistro del riquadro"
+      },
+      {
+        "order": 2,
+        "name": "横折 (Héngzhé)",
+        "type": "corner",
+        "start": { "x": 75, "y": 100 },
+        "end": { "x": 225, "y": 180 },
+        "path": "M 75 100 L 225 100 L 225 180",
+        "description": "2. Tratto ad angolo superiore-destro"
+      },
+      {
+        "order": 3,
+        "name": "横 (Héng)",
+        "type": "horizontal",
+        "start": { "x": 75, "y": 180 },
+        "end": { "x": 225, "y": 180 },
+        "description": "3. Chiusura orizzontale del riquadro"
+      },
+      {
+        "order": 4,
+        "name": "悬针竖 (Xuánzhēnshù)",
+        "type": "vertical",
+        "start": { "x": 150, "y": 50 },
+        "end": { "x": 150, "y": 250 },
+        "description": "4. Tratto verticale penetrante che fende il centro da cima a fondo"
+      }
+    ]
+  }
+]
