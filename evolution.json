@@ -1,0 +1,93 @@
+[
+  {
+    "id": "evo_sen",
+    "char": "森",
+    "meaning": "foresta folta",
+    "pinyin": "sēn",
+    "explanation": "Nell'antichità l'albero era disegnato con chioma, tronco e radici. Affiancando due alberi nacque 'bosco' (林), e unendo tre alberi piramidalmente si ottenne 'foresta' (森).",
+    "stages": [
+      { "symbol": "🌲", "label": "1° Pittogramma Antico", "description": "Rappresentazione pittografica dell'albero nella natura" },
+      { "symbol": "木", "label": "2° Carattere Singolo", "description": "Albero singolo stilizzato: rami sopra, radici sotto" },
+      { "symbol": "林", "label": "3° Forma Duplice", "description": "Due alberi affiancati: formano il concetto di 'boschetto'" },
+      { "symbol": "森", "label": "4° Carattere Moderno", "description": "Tre alberi piramidali: la foresta maestosa e impenetrabile" }
+    ]
+  },
+  {
+    "id": "evo_ming",
+    "char": "明",
+    "meaning": "luminoso / chiaro",
+    "pinyin": "míng",
+    "explanation": "I cinesi antichi unirono i due corpi celesti più splendenti dell'universo: il sole del giorno e la luna della notte, creando il concetto di luce assoluta.",
+    "stages": [
+      { "symbol": "☀️", "label": "1° Simbolo Solare", "description": "Il disco solare nel cielo primordiale" },
+      { "symbol": "日", "label": "2° Pittogramma Sole", "description": "Sole arcaico inciso su carapaci di tartaruga con punto centrale" },
+      { "symbol": "🌙月", "label": "3° Unione con la Luna", "description": "Accostamento al chiarore notturno della luna crescente" },
+      { "symbol": "明", "label": "4° Carattere Moderno", "description": "Sole (日) + Luna (月) = Luminosità, chiarezza, intelligenza" }
+    ]
+  },
+  {
+    "id": "evo_xiu",
+    "char": "休",
+    "meaning": "riposare",
+    "pinyin": "xiū",
+    "explanation": "La vita nei campi sotto il sole cocente portava i contadini a sostare all'ombra di grandi alberi. Il carattere raffigura visivamente l'uomo appoggiato al tronco.",
+    "stages": [
+      { "symbol": "👤", "label": "1° Figura Umana", "description": "Sagoma arcaica di un uomo stanco dal lavoro" },
+      { "symbol": "人", "label": "2° Pittogramma Uomo", "description": "Carattere arcaico dell'uomo in piedi di profilo" },
+      { "symbol": "🌳木", "label": "3° Accostamento all'Albero", "description": "L'uomo si sposta verso l'ombra rinfrescante della pianta" },
+      { "symbol": "休", "label": "4° Carattere Moderno", "description": "Radicale persona (亻) accanto ad albero (木) = Riposare" }
+    ]
+  },
+  {
+    "id": "evo_hao",
+    "char": "好",
+    "meaning": "buono / bene",
+    "pinyin": "hǎo",
+    "explanation": "Nella cultura cinese la più grande benedizione e completezza familiare era rappresentata da una madre con il proprio bambino.",
+    "stages": [
+      { "symbol": "👩", "label": "1° Figura Materna", "description": "Disegno ancestrale di una donna in ginocchio con mani giunte" },
+      { "symbol": "女", "label": "2° Carattere Donna", "description": "Stilizzazione elegante del carattere per donna / madre" },
+      { "symbol": "👶子", "label": "3° Presenza del Figlio", "description": "Aggiunta del bambino in fasce con braccia aperte" },
+      { "symbol": "好", "label": "4° Carattere Moderno", "description": "Donna (女) + Figlio (子) = Armonia, bene, bontà" }
+    ]
+  },
+  {
+    "id": "evo_an",
+    "char": "安",
+    "meaning": "pace / sicurezza",
+    "pinyin": "ān",
+    "explanation": "L'abitazione solida garantisce riparo dai pericoli esterni, dalle bestie e dalle intemperie, custodendo la famiglia.",
+    "stages": [
+      { "symbol": "🏠", "label": "1° Capanna / Rifugio", "description": "Raffigurazione della dimora con tetto spiovente" },
+      { "symbol": "宀", "label": "2° Radicale Tetto", "description": "La trave e i due spioventi laterali dell'abitazione" },
+      { "symbol": "👩女", "label": "3° Donna nel Focolare", "description": "La figura femminile posta al centro del riparo domestico" },
+      { "symbol": "安", "label": "4° Carattere Moderno", "description": "Tetto (宀) sopra donna (女) = Tranquillità, sicurezza" }
+    ]
+  },
+  {
+    "id": "evo_shan",
+    "char": "山",
+    "meaning": "montagna",
+    "pinyin": "shān",
+    "explanation": "Il carattere 山 è uno dei più puri pittogrammi: raffigura tre vette montuose consecutive, con il picco centrale più elevato.",
+    "stages": [
+      { "symbol": "⛰️", "label": "1° Panorama Naturale", "description": "Il profilo delle vette rocciose all'orizzonte" },
+      { "symbol": "𐠁", "label": "2° Pittogramma Ossa Oracolari", "description": "Tre picchi verticali collegati da una linea di base curva" },
+      { "symbol": "⼭", "label": "3° Stile del Piccolo Sigillo", "description": "Linee geometriche equilibrate con picco centrale predominante" },
+      { "symbol": "山", "label": "4° Carattere Moderno Regolare", "description": "Tratto centrale verticale con base e laterali ortogonali" }
+    ]
+  },
+  {
+    "id": "evo_shui",
+    "char": "水",
+    "meaning": "acqua / fiume",
+    "pinyin": "shuǐ",
+    "explanation": "Raffigura il fluire sinuoso di un corso d'acqua tra rivoli, spruzzi e meandri rocciosi.",
+    "stages": [
+      { "symbol": "🌊", "label": "1° Fiume che Scorre", "description": "Il moto vorticoso e continuo delle correnti acquatiche" },
+      { "symbol": "𡿨", "label": "2° Tracciato su Bronzi", "description": "Linea ondulata centrale fiancheggiata da gocce e vortici" },
+      { "symbol": "氵", "label": "3° Radicale Tre Gocce", "description": "Semplificazione corsiva a tre gocce per i composti" },
+      { "symbol": "水", "label": "4° Carattere Moderno Regolare", "description": "Tratto uncinato centrale con tratti discendenti ai lati" }
+    ]
+  }
+]
