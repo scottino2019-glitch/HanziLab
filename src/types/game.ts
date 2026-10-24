@@ -3,8 +3,10 @@ export type GameType =
   | 'evolution' 
   | 'logic' 
   | 'memory' 
+  | 'abbinamenti'
   | 'stroke' 
-  | 'pronunciation';
+  | 'pronunciation'
+  | 'puzzle15';
 
 export interface GameCatalogItem {
   id: GameType;
@@ -14,6 +16,38 @@ export interface GameCatalogItem {
   icon: string;
   description: string;
   learningFocus: string;
+}
+
+export interface MatchingPair {
+  id: string;
+  left: string;
+  right: string;
+  leftHint?: string;
+  rightHint?: string;
+  pinyin?: string;
+}
+
+export interface MatchingItem {
+  id: string;
+  mode: 'significato_ideogramma' | 'radicale_ideogramma' | 'tono_pinyin_ideogramma';
+  modeTitle: string;
+  instructions: string;
+  pairs: MatchingPair[];
+}
+
+export interface PuzzleTile {
+  id: number;
+  content: string;
+  pinyin?: string;
+  arabic?: number;
+}
+
+export interface Puzzle15Item {
+  id: string;
+  title: string;
+  size: 3 | 4;
+  description: string;
+  tiles: PuzzleTile[];
 }
 
 export interface RadicalItem {
