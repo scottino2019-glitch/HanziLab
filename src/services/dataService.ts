@@ -98,6 +98,15 @@ export async function loadGameCatalog(): Promise<GameCatalogItem[]> {
       learningFocus: "Vocabolario"
     },
     {
+      id: "abbinamenti",
+      name: "Gioco di Abbinamenti",
+      chineseName: "连线",
+      file: "abbinamenti.json",
+      icon: "Link2",
+      description: "Abbina significato, radicali o pinyin con ideogramma",
+      learningFocus: "Associazione diretta"
+    },
+    {
       id: "stroke",
       name: "Ordine Tratti",
       chineseName: "笔画",
@@ -114,6 +123,15 @@ export async function loadGameCatalog(): Promise<GameCatalogItem[]> {
       icon: "Volume2",
       description: "Abbina caratteri alla pronuncia corretta",
       learningFocus: "Pinyin"
+    },
+    {
+      id: "puzzle15",
+      name: "Gioco del 15",
+      chineseName: "华容",
+      file: "puzzle15.json",
+      icon: "Grid",
+      description: "Fai scorrere le caselle per riordinare numeri e caratteri",
+      learningFocus: "Logica spaziale & Numeri"
     }
   ];
 }
