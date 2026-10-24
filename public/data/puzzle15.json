@@ -1,0 +1,64 @@
+[
+  {
+    "id": "p15_numeri_classico",
+    "title": "Gioco del 15 · Numeri Cinesi (4x4)",
+    "size": 4,
+    "description": "Fai scorrere le caselle per riordinare i numeri cinesi da 一 (1) a 十五 (15) fino all'angolo vuoto in basso a destra.",
+    "tiles": [
+      { "id": 1, "content": "一", "pinyin": "yī", "arabic": 1 },
+      { "id": 2, "content": "二", "pinyin": "èr", "arabic": 2 },
+      { "id": 3, "content": "三", "pinyin": "sān", "arabic": 3 },
+      { "id": 4, "content": "四", "pinyin": "sì", "arabic": 4 },
+      { "id": 5, "content": "五", "pinyin": "wǔ", "arabic": 5 },
+      { "id": 6, "content": "六", "pinyin": "liù", "arabic": 6 },
+      { "id": 7, "content": "七", "pinyin": "qī", "arabic": 7 },
+      { "id": 8, "content": "八", "pinyin": "bā", "arabic": 8 },
+      { "id": 9, "content": "九", "pinyin": "jiǔ", "arabic": 9 },
+      { "id": 10, "content": "十", "pinyin": "shí", "arabic": 10 },
+      { "id": 11, "content": "十一", "pinyin": "shíyī", "arabic": 11 },
+      { "id": 12, "content": "十二", "pinyin": "shí'èr", "arabic": 12 },
+      { "id": 13, "content": "十三", "pinyin": "shísān", "arabic": 13 },
+      { "id": 14, "content": "十四", "pinyin": "shísì", "arabic": 14 },
+      { "id": 15, "content": "十五", "pinyin": "shíwǔ", "arabic": 15 }
+    ]
+  },
+  {
+    "id": "p8_numeri_base",
+    "title": "Gioco dell'8 · Numeri Cinesi Base (3x3)",
+    "size": 3,
+    "description": "Una versione 3x3 più veloce: riordina le 8 caselle da 一 (1) a 八 (8).",
+    "tiles": [
+      { "id": 1, "content": "一", "pinyin": "yī", "arabic": 1 },
+      { "id": 2, "content": "二", "pinyin": "èr", "arabic": 2 },
+      { "id": 3, "content": "三", "pinyin": "sān", "arabic": 3 },
+      { "id": 4, "content": "四", "pinyin": "sì", "arabic": 4 },
+      { "id": 5, "content": "五", "pinyin": "wǔ", "arabic": 5 },
+      { "id": 6, "content": "六", "pinyin": "liù", "arabic": 6 },
+      { "id": 7, "content": "七", "pinyin": "qī", "arabic": 7 },
+      { "id": 8, "content": "八", "pinyin": "bā", "arabic": 8 }
+    ]
+  },
+  {
+    "id": "p15_poesia_primavera",
+    "title": "Gioco del 15 · Poesia Classica (春晓)",
+    "size": 4,
+    "description": "Riordina i 15 ideogrammi della celebre poesia 'Risveglio di Primavera' di Meng Haoran.",
+    "tiles": [
+      { "id": 1, "content": "春", "pinyin": "chūn", "arabic": 1 },
+      { "id": 2, "content": "眠", "pinyin": "mián", "arabic": 2 },
+      { "id": 3, "content": "不", "pinyin": "bù", "arabic": 3 },
+      { "id": 4, "content": "觉", "pinyin": "jué", "arabic": 4 },
+      { "id": 5, "content": "晓", "pinyin": "xiǎo", "arabic": 5 },
+      { "id": 6, "content": "处", "pinyin": "chù", "arabic": 6 },
+      { "id": 7, "content": "处", "pinyin": "chù", "arabic": 7 },
+      { "id": 8, "content": "闻", "pinyin": "wén", "arabic": 8 },
+      { "id": 9, "content": "啼", "pinyin": "tí", "arabic": 9 },
+      { "id": 10, "content": "鸟", "pinyin": "niǎo", "arabic": 10 },
+      { "id": 11, "content": "夜", "pinyin": "yè", "arabic": 11 },
+      { "id": 12, "content": "来", "pinyin": "lái", "arabic": 12 },
+      { "id": 13, "content": "风", "pinyin": "fēng", "arabic": 13 },
+      { "id": 14, "content": "雨", "pinyin": "yǔ", "arabic": 14 },
+      { "id": 15, "content": "声", "pinyin": "shēng", "arabic": 15 }
+    ]
+  }
+]

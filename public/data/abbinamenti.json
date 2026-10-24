@@ -1,0 +1,86 @@
+[
+  {
+    "id": "match_significato_1",
+    "mode": "significato_ideogramma",
+    "modeTitle": "Significato ↔ Ideogramma (Elementi della Natura)",
+    "instructions": "Clicca su un significato italiano a sinistra e poi sul suo ideogramma corrispondente a destra.",
+    "pairs": [
+      { "id": "p1", "left": "Acqua", "right": "水", "pinyin": "shuǐ" },
+      { "id": "p2", "left": "Fuoco", "right": "火", "pinyin": "huǒ" },
+      { "id": "p3", "left": "Montagna", "right": "山", "pinyin": "shān" },
+      { "id": "p4", "left": "Cielo / Giorno", "right": "天", "pinyin": "tiān" },
+      { "id": "p5", "left": "Terra / Suolo", "right": "地", "pinyin": "dì" },
+      { "id": "p6", "left": "Luna / Mese", "right": "月", "pinyin": "yuè" }
+    ]
+  },
+  {
+    "id": "match_significato_2",
+    "mode": "significato_ideogramma",
+    "modeTitle": "Significato ↔ Ideogramma (Corpo & Persone)",
+    "instructions": "Abbina ogni termine italiano al carattere cinese corrispondente.",
+    "pairs": [
+      { "id": "p7", "left": "Persona / Uomo", "right": "人", "pinyin": "rén" },
+      { "id": "p8", "left": "Mano", "right": "手", "pinyin": "shǒu" },
+      { "id": "p9", "left": "Cuore / Mente", "right": "心", "pinyin": "xīn" },
+      { "id": "p10", "left": "Bocca", "right": "口", "pinyin": "kǒu" },
+      { "id": "p11", "left": "Occhio", "right": "目", "pinyin": "mù" },
+      { "id": "p12", "left": "Piede", "right": "足", "pinyin": "zú" }
+    ]
+  },
+  {
+    "id": "match_radicale_1",
+    "mode": "radicale_ideogramma",
+    "modeTitle": "Radicale Kangxi ↔ Ideogramma",
+    "instructions": "Abbina il radicale semantico a sinistra con il carattere che lo contiene a destra.",
+    "pairs": [
+      { "id": "r1", "left": "氵 (Acqua)", "right": "海", "leftHint": "Acqua", "rightHint": "Mare (hǎi)", "pinyin": "hǎi" },
+      { "id": "r2", "left": "木 (Albero / Legno)", "right": "森", "leftHint": "Albero", "rightHint": "Foresta (sēn)", "pinyin": "sēn" },
+      { "id": "r3", "left": "亻 (Persona)", "right": "休", "leftHint": "Persona", "rightHint": "Riposare (xiū)", "pinyin": "xiū" },
+      { "id": "r4", "left": "宀 (Tetto / Riparo)", "right": "家", "leftHint": "Tetto", "rightHint": "Casa / Famiglia (jiā)", "pinyin": "jiā" },
+      { "id": "r5", "left": "女 (Donna)", "right": "好", "leftHint": "Donna", "rightHint": "Buono / Bene (hǎo)", "pinyin": "hǎo" },
+      { "id": "r6", "left": "日 (Sole / Luce)", "right": "明", "leftHint": "Sole", "rightHint": "Luminoso (míng)", "pinyin": "míng" }
+    ]
+  },
+  {
+    "id": "match_radicale_2",
+    "mode": "radicale_ideogramma",
+    "modeTitle": "Radicale Kangxi ↔ Ideogramma (Azioni & Sensi)",
+    "instructions": "Riconosci quale carattere deriva dal radicale semantico indicato.",
+    "pairs": [
+      { "id": "r7", "left": "口 (Bocca)", "right": "吃", "leftHint": "Bocca", "rightHint": "Mangiare (chī)", "pinyin": "chī" },
+      { "id": "r8", "left": "扌 (Mano)", "right": "打", "leftHint": "Mano", "rightHint": "Colpire / Giocare (dǎ)", "pinyin": "dǎ" },
+      { "id": "r9", "left": "目 (Occhio)", "right": "看", "leftHint": "Occhio", "rightHint": "Guardare (kàn)", "pinyin": "kàn" },
+      { "id": "r10", "left": "讠 (Parola / Discorso)", "right": "说", "leftHint": "Parola", "rightHint": "Parlare (shuō)", "pinyin": "shuō" },
+      { "id": "r11", "left": "饣 (Cibo)", "right": "饭", "leftHint": "Cibo", "rightHint": "Riso / Pasto (fàn)", "pinyin": "fàn" },
+      { "id": "r12", "left": "足 (Piede)", "right": "跑", "leftHint": "Piede", "rightHint": "Correre (pǎo)", "pinyin": "pǎo" }
+    ]
+  },
+  {
+    "id": "match_tono_pinyin_1",
+    "mode": "tono_pinyin_ideogramma",
+    "modeTitle": "Pinyin con Tono ↔ Ideogramma",
+    "instructions": "Abbina la trascrizione pinyin con il tono esatto all'ideogramma corretto.",
+    "pairs": [
+      { "id": "t1", "left": "nǐ (3° tono ˇ)", "right": "你", "pinyin": "nǐ", "leftHint": "tu" },
+      { "id": "t2", "left": "hǎo (3° tono ˇ)", "right": "好", "pinyin": "hǎo", "leftHint": "bene" },
+      { "id": "t3", "left": "wǒ (3° tono ˇ)", "right": "我", "pinyin": "wǒ", "leftHint": "io" },
+      { "id": "t4", "left": "shì (4° tono ˋ)", "right": "是", "pinyin": "shì", "leftHint": "essere" },
+      { "id": "t5", "left": "rén (2° tono ˊ)", "right": "人", "pinyin": "rén", "leftHint": "persona" },
+      { "id": "t6", "left": "zhōng (1° tono ¯)", "right": "中", "pinyin": "zhōng", "leftHint": "centro" }
+    ]
+  },
+  {
+    "id": "match_tono_pinyin_2",
+    "mode": "tono_pinyin_ideogramma",
+    "modeTitle": "Pinyin con Tono ↔ Ideogramma (Toni a Contrasto)",
+    "instructions": "Distingui i toni corretti abbinando pinyin e carattere.",
+    "pairs": [
+      { "id": "t7", "left": "mā (1° tono ¯)", "right": "妈", "pinyin": "mā", "leftHint": "mamma" },
+      { "id": "t8", "left": "bà (4° tono ˋ)", "right": "爸", "pinyin": "bà", "leftHint": "papà" },
+      { "id": "t9", "left": "tiān (1° tono ¯)", "right": "天", "pinyin": "tiān", "leftHint": "cielo" },
+      { "id": "t10", "left": "guó (2° tono ˊ)", "right": "国", "pinyin": "guó", "leftHint": "paese" },
+      { "id": "t11", "left": "ài (4° tono ˋ)", "right": "爱", "pinyin": "ài", "leftHint": "amare" },
+      { "id": "t12", "left": "xiǎo (3° tono ˇ)", "right": "小", "pinyin": "xiǎo", "leftHint": "piccolo" }
+    ]
+  }
+]

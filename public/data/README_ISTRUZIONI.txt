@@ -3,13 +3,15 @@
 
 Questa cartella (`public/data/`) contiene tutti i dati usati dall'applicazione:
 
-1. `radicals.json`      -> Caccia ai Radicali (caratteri, radicali corretti, distrattori, spiegazione)
-2. `evolution.json`     -> Evoluzione Caratteri (fasi evolutive dal pittogramma al moderno)
-3. `logic.json`         -> Logica dei Caratteri (componenti che si uniscono, enigmi, opzioni)
-4. `memory.json`        -> Memory Cinese (coppie Hanzi <-> Italiano e pinyin)
-5. `stroke.json`        -> Ordine Tratti (caratteri, coordinate dei tratti, nomi delle pennellate)
-6. `pronunciation.json` -> Quiz Pronuncia (caratteri, pinyin con toni, distrattori)
-7. `radical_meanings.json` -> Dizionario dei significati dei radicali Kangxi
+1. `radicals.json`         -> Caccia ai Radicali (caratteri, radicali corretti, distrattori, spiegazione)
+2. `evolution.json`        -> Evoluzione Caratteri (fasi evolutive dal pittogramma al moderno)
+3. `logic.json`            -> Logica dei Caratteri (componenti che si uniscono, enigmi, opzioni)
+4. `memory.json`           -> Memory Cinese (coppie Hanzi <-> Italiano e pinyin)
+5. `abbinamenti.json`      -> Gioco di Abbinamenti (significato ↔ ideogramma, radicale ↔ ideogramma, tono e pinyin)
+6. `stroke.json`           -> Ordine Tratti (caratteri, coordinate dei tratti, nomi delle pennellate)
+7. `pronunciation.json`    -> Quiz Pronuncia (caratteri, pinyin con toni, distrattori)
+8. `puzzle15.json`         -> Gioco del 15 (riordino numeri cinesi 一..十五 e poesie)
+9. `radical_meanings.json` -> Dizionario dei significati dei radicali Kangxi
 
 COME MODIFICARE I CONTENUTI SENZA RICOMPILARE:
 ----------------------------------------------

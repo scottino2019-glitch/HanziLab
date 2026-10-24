@@ -36,6 +36,15 @@
     "learningFocus": "Memorizzazione attiva del vocabolario con pronuncia audio offline."
   },
   {
+    "id": "abbinamenti",
+    "name": "Gioco di Abbinamenti",
+    "chineseName": "连线配对",
+    "file": "abbinamenti.json",
+    "icon": "Link2",
+    "description": "Abbina vocaboli e significati, radicali con ideogrammi o pinyin e toni.",
+    "learningFocus": "Associazione visiva e grammaticale diretta."
+  },
+  {
     "id": "stroke",
     "name": "Ordine dei Tratti",
     "chineseName": "笔顺练字",
@@ -52,5 +61,14 @@
     "icon": "Volume2",
     "description": "Abbina il carattere al pinyin corretto distinguendo i 4 toni mandarini.",
     "learningFocus": "Trascrizione fonetica Pinyin, accenti tonali e ascolto vocale offline."
+  },
+  {
+    "id": "puzzle15",
+    "name": "Gioco del 15",
+    "chineseName": "数字华容",
+    "file": "puzzle15.json",
+    "icon": "Grid",
+    "description": "Fai scorrere le caselle per riordinare i numeri cinesi e i versi di poesie famose.",
+    "learningFocus": "Numeri cinesi da 1 a 15 e logica di scorrimento."
   }
 ]
