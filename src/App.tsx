@@ -11,8 +11,10 @@ import { RadicalsGame } from './components/games/RadicalsGame';
 import { EvolutionGame } from './components/games/EvolutionGame';
 import { LogicGame } from './components/games/LogicGame';
 import { MemoryGame } from './components/games/MemoryGame';
+import { MatchingGame } from './components/games/MatchingGame';
 import { StrokeGame } from './components/games/StrokeGame';
 import { PronunciationGame } from './components/games/PronunciationGame';
+import { Puzzle15Game } from './components/games/Puzzle15Game';
 
 type AppView = 'MENU' | 'PLAYING' | 'SUMMARY';
 
@@ -97,6 +99,15 @@ export default function App() {
       accentCol: 'text-emerald-800'
     },
     {
+      id: 'abbinamenti',
+      hanzi: '连线',
+      title: 'Gioco di Abbinamenti',
+      desc: 'Abbina significato, radicali o pinyin con ideogramma',
+      cardBg: 'bg-[#f0fdfa]',
+      borderCol: 'border-teal-300 hover:border-teal-500',
+      accentCol: 'text-teal-800'
+    },
+    {
       id: 'stroke',
       hanzi: '笔画',
       title: 'Ordine Tratti',
@@ -113,6 +124,15 @@ export default function App() {
       cardBg: 'bg-[#fff1f2]',
       borderCol: 'border-rose-300 hover:border-rose-500',
       accentCol: 'text-rose-800'
+    },
+    {
+      id: 'puzzle15',
+      hanzi: '华容',
+      title: 'Gioco del 15',
+      desc: 'Riordina i numeri cinesi e i versi delle poesie',
+      cardBg: 'bg-[#fefce8]',
+      borderCol: 'border-yellow-300 hover:border-yellow-500',
+      accentCol: 'text-amber-900'
     }
   ];
 
@@ -224,6 +244,13 @@ export default function App() {
                 onBackToMenu={() => setCurrentView('MENU')}
               />
             )}
+            {activeGame === 'abbinamenti' && (
+              <MatchingGame
+                items={gameItems}
+                onFinishRound={handleFinishRound}
+                onBackToMenu={() => setCurrentView('MENU')}
+              />
+            )}
             {activeGame === 'stroke' && (
               <StrokeGame
                 items={gameItems}
@@ -233,6 +260,13 @@ export default function App() {
             )}
             {activeGame === 'pronunciation' && (
               <PronunciationGame
+                items={gameItems}
+                onFinishRound={handleFinishRound}
+                onBackToMenu={() => setCurrentView('MENU')}
+              />
+            )}
+            {activeGame === 'puzzle15' && (
+              <Puzzle15Game
                 items={gameItems}
                 onFinishRound={handleFinishRound}
                 onBackToMenu={() => setCurrentView('MENU')}
